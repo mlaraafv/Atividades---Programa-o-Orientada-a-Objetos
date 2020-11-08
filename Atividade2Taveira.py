@@ -19,6 +19,7 @@ def tabela():
     while a < 226:
         decimal(a), octal(a), hexadecimal(a), binario(a)
         print("\n")
+        print("------------------------------------------------------- ")
         a += 1
 
 
